@@ -6,7 +6,7 @@ The configuration for the conda environment is available at [```environment.yml`
 
 ## Running Experiments
 To run the experiments, use the following files:
-- Synthetic data (Figures 3 & 4): [```test_joint.py```](test_joint.py),
+- Synthetic data (Figures 2, 3, & 4): [```test_joint.py```](test_joint.py),
 - Flow cytometry data (Table I): [```test_joint_linear_sachs.py```](test_joint_linear_sachs.py), and
 - Ablation study with different topological orderings (Figure 5): [```test_joint_ordering.py```](test_joint_ordering.py).
 

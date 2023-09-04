@@ -1,0 +1,13 @@
+.neptune/
+.vscode/
+**/.DS_Store
+**/*.pyc
+.env
+cache/
+*.err
+*.out
+ipynb_checkpoints/
+**/*.pkl
+results*/**
+test_viz/**
+**.ipynb
