@@ -21,9 +21,9 @@ The required configurations for all the experiments on synthetic data are
 If you find our code helpful, please cite us as:
 ```
 @inproceedings{tran2023topological,
-    author = {Tran, Quang-Duy and Nguyen, Phuoc and Duong, Bao and Nguyen, Thin},
-	booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},
-	title = {Topological Ordering in Differentiable Bayesian Structure Learning with Guaranteed Acyclicity Constraint},
-	year = {2023}
+  author = {Tran, Quang-Duy and Nguyen, Phuoc and Duong, Bao and Nguyen, Thin},
+  booktitle = {Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM)},
+  title = {Topological Ordering in Differentiable Bayesian Structure Learning with Guaranteed Acyclicity Constraint},
+  year = {2023}
 }
 ```
