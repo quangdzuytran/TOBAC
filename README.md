@@ -1,5 +1,5 @@
-# Topological Ordering in Differentiable Bayesian Structure Learning with Guaranteed Acyclicity Constraint (TOBAC)
-This is the implementation of our paper: Quang-Duy Tran, Phuoc Nguyen, Bao Duong, and Thin Nguyen. [Topological Ordering in Differentiable Bayesian Structure Learning with Guaranteed Acyclicity Constraint](). In the 23rd IEEE International Conference on Data Mining (ICDM), 2023.
+# Topological Ordering in Differentiable Bayesian Structure Learning with Acyclicity Assurance (TOBAC)
+This is the implementation of our paper: Quang-Duy Tran, Phuoc Nguyen, Bao Duong, and Thin Nguyen. [Differentiable Bayesian Structure Learning with Acyclicity Assurance](https://arxiv.org/abs/2309.01392). In the 23rd IEEE International Conference on Data Mining (ICDM), 2023.
 
 ## Dependences 
 The configuration for the conda environment is available at [```environment.yml```](environment.yml).
@@ -23,7 +23,7 @@ If you find our code helpful, please cite us as:
 @inproceedings{tran2023topological,
   author = {Tran, Quang-Duy and Nguyen, Phuoc and Duong, Bao and Nguyen, Thin},
   booktitle = {Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM)},
-  title = {Topological Ordering in Differentiable Bayesian Structure Learning with Guaranteed Acyclicity Constraint},
+  title = {Differentiable {B}ayesian Structure Learning with Acyclicity Assurance},
   year = {2023}
 }
 ```
