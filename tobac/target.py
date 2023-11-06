@@ -83,7 +83,7 @@ def make_synthetic_bayes_net(*,
     g_gt = graph_dist.sample_G(subk)
     g_gt_mat = jnp.array(graph_to_mat(g_gt))
 
-    g_gt_net = nx.from_numpy_matrix(g_gt_mat, create_using=nx.DiGraph)
+    g_gt_net = nx.from_numpy_array(g_gt_mat, create_using=nx.DiGraph)
     g_gt_order = jnp.array(list(nx.topological_sort(g_gt_net)))
     g_gt_perm = jnp.vstack([jnp.zeros(n_vars).at[i].set(1) for i in g_gt_order], dtype=jnp.float32).T
 
