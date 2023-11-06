@@ -8,6 +8,6 @@ cache/
 *.out
 ipynb_checkpoints/
 **/*.pkl
-results*/**
+results*/*.csv
 test_viz/**
 **.ipynb
