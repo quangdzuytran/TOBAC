@@ -2,7 +2,7 @@
 This is the implementation of our paper: Quang-Duy Tran, Phuoc Nguyen, Bao Duong, and Thin Nguyen. [Differentiable Bayesian Structure Learning with Acyclicity Assurance](https://arxiv.org/abs/2309.01392). In the 23rd IEEE International Conference on Data Mining (ICDM), 2023.
 
 ## Dependences 
-The configuration for the conda environment is available at [```environment.yml```](environment.yml).
+The configuration for the conda environment is available at [```conda_linux.yml```](conda_linux.yml) (with CUDA) and [```conda_macos.yml```](conda_macos.yml).
 
 ## Running Experiments
 To run the experiments, use the following files:
